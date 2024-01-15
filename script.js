@@ -15,11 +15,11 @@ const sideNavBar = document.getElementById('sidenav');
 const closeNav = document.getElementById('closenav')
 
 sideMenu.addEventListener("click",()=>{
-    sideNavBar.style.marginLeft = 0;
+    sideNavBar.style.marginRight = 0;
 })
 
 closeNav.addEventListener("click",()=>{
-    sideNavBar.style.marginLeft = "-60%";
+    sideNavBar.style.marginRight = "-60%";
 })
 
 // Slider function

@@ -18,3 +18,7 @@ Welcome to our e-commerce project! The project is built using HTML, CSS, and Jav
 
    ```bash
    https://github.com/MageshVachiravel/Nostra-Ecommerce.git
+
+## Acknowledgments
+
+- Special thanks to `Agnel John` - (EMC) for their guidance and support.
